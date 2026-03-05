@@ -38,9 +38,7 @@ The dashboard helps understand revenue trends, refunds, and customer activity du
 ---
 
 ## 🔗 Live Dashboard
-Paste your Power BI Service link here.
 
-Example:
 
 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2E0ZDJlMTQtMTVmNS00NjM0LWIwOGEtODBkNmFlNTQyNjEzIiwidCI6IjgzY2U2OTI0LTViZjctNDE3ZS05YWZjLWMxOWQ4YjZkYzAwOCJ9)
 
